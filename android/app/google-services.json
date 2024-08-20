@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401331254802",
+    "project_id": "live-score-app-a5aed",
+    "storage_bucket": "live-score-app-a5aed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401331254802:android:435953519e074756370acb",
+        "android_client_info": {
+          "package_name": "com.example.live_score"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHnRMHEh-AODWQUFtHSIkESoWNOe0KavA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
