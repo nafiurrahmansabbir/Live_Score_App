@@ -14,6 +14,7 @@ class FootballScoreCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Card(
+      color: Colors.green.shade100,
       elevation: 3,
       margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
       child: Padding(
